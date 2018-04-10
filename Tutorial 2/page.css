@@ -1,0 +1,17 @@
+.my-color {
+    color: red;
+    background-color: black;
+}
+.my-work {
+    color: blue;
+    background-color: pink;
+}
+.my-bold {
+    font-weight: bolder;
+    color: palegoldenrod;
+    background-color: midnightblue;
+}
+.my-div {
+    background-color: magenta;
+    color: blue;
+}

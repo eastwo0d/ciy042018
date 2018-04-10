@@ -11,6 +11,7 @@
 }
 .my-container h1{
 	text-align: center;
+	
 }
 .my-container ul{
 	max-width: 200px;
@@ -29,15 +30,21 @@
 /*6. shift the image up with margin-top: -100px*/
 .my-face{
 	
-
-
-
-
-
+	display: block;
+	max-height: 200px;
+	max-width: 200px;
+	margin: auto;
+	border-radius: 50%;
+	border: 1px solid #aaa;
+	margin-top: -100px;
 }
 
 /*stripe generator: http://www.stripegenerator.com/*/
 /*7. set background image as: stripe_background.png*/
 .my-body{
-	
+
+	background-image: url(stripe_background.png);
+
+
+
 }
