@@ -1,0 +1,17 @@
+/*@media (min-width: 768px) {
+
+    .my-title {
+        
+        font-size: 60px;
+
+    }
+}*/
+    
+@media (min-width: 768px) {
+
+    .my-title {
+        font-size: 20px;
+        color: red;
+    }
+
+}
